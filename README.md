@@ -64,7 +64,7 @@ The project utilizes data from the `atliq_hardware_db` database, which consists 
 ---
 
 ## **Project Links**
-- **GitHub Repository**: [Link Here]
+- **GitHub Repository**: [[Link Here]](https://github.com/DanielAnimesh/AtliQ_Hardwares_Ad_hoc_Req.git)
 - **Presentation Deck**: [Link Here]
 
 Feel free to explore the repository and provide feedback or suggestions! 🚀
